@@ -11,6 +11,7 @@ public class HolaMundoSpringApplication {
 		System.out.println("Hola Mundo con Spring boot");
 		System.out.println("Nueva Linea modificada desde GitHub");
 		System.out.println("Nueva Linea modificada desde GitHub con conexión SSH");
+		System.out.println("Conexión SSH, desde repositorio Local");
 	}
 
 }
